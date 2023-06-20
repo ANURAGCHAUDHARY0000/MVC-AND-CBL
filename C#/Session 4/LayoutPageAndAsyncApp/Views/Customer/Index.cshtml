@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MasterLayoutPage.cshtml";
+}
+
+@using LayoutPageAndAsyncApp.ViewModel
+<h2>Index page of Customer controller</h2>
+
+
+@Html.Partial("_timestamp", new TimeStampVM { Title = "Time", Format = "hh:mm:ss" })
+
+<form>
+    <input type="submit" value="Submit">
+</form>
+
+</br>
+
+<button onclick="GetTimeStamp()" class=" = btn btn-primary">GetTimeStamp</button>
+<button onclick="fnGetData()" class=" = btn btn-primary">GetData</button>
+<button onclick="fnGetDataSync()" class=" = btn btn-primary">fnGetDataSync</button>
+
+<h1 id="display"></h1>
+
+<img id="imgLoading" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif">
+
+<script>
+    $("#imgLoading").hide()
+
+    function fnGetData() {
+        $("#imgLoading").show()
+        console.log("inside fngetcustomer data")
+        $.get("/Customer/GetData", function (resp) {
+            $("#imgLoading").hide()
+            $("#display").html(resp)
+            console.log(resp)
+        }
+        );
+    }
+
+    function fnGetDataSync() {
+        $("#imgLoading").show()
+        console.log("inside fngetcustomer data")
+        $.get("/Customer/GetDataAsync", function (resp) {
+            $("#imgLoading").hide()
+            $("#display").html(resp)
+            console.log(resp)
+        }
+        );
+    }
+
+    function GetTimeStamp() {
+        console.log("GetTimeStamp")
+
+        $.get("/Customer/GetTimeStamp", function (resp) {
+            console.log(resp)
+            $("#display").html(resp)
+        });
+    }
+
+
+</script>
+
+

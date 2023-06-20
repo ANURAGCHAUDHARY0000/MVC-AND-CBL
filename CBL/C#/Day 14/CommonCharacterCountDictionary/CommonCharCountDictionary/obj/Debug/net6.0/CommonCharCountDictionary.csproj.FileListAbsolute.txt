@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\bin\Debug\net6.0\CommonCharCountDictionary.exe
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\bin\Debug\net6.0\CommonCharCountDictionary.deps.json
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\bin\Debug\net6.0\CommonCharCountDictionary.runtimeconfig.json
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\bin\Debug\net6.0\CommonCharCountDictionary.dll
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\bin\Debug\net6.0\CommonCharCountDictionary.pdb
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.dll
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\refint\CommonCharCountDictionary.dll
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.pdb
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\CommonCharCountDictionary.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 14\CommonCharacterCountDictionary\CommonCharCountDictionary\obj\Debug\net6.0\ref\CommonCharCountDictionary.dll

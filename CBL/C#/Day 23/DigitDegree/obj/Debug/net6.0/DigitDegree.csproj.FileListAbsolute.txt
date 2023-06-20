@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 23\DigitDegree\bin\Debug\net6.0\DigitDegree.exe
+D:\MVC\CBL\C#\Day 23\DigitDegree\bin\Debug\net6.0\DigitDegree.deps.json
+D:\MVC\CBL\C#\Day 23\DigitDegree\bin\Debug\net6.0\DigitDegree.runtimeconfig.json
+D:\MVC\CBL\C#\Day 23\DigitDegree\bin\Debug\net6.0\DigitDegree.dll
+D:\MVC\CBL\C#\Day 23\DigitDegree\bin\Debug\net6.0\DigitDegree.pdb
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.dll
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\refint\DigitDegree.dll
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.pdb
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\DigitDegree.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 23\DigitDegree\obj\Debug\net6.0\ref\DigitDegree.dll

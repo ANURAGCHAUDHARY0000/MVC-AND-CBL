@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapArray", "SwapArray.csproj", "{7E23FE83-CD7F-4396-99B4-DE84EB6DE96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapArrayV2", "..\SwapArrayV2\SwapArrayV2.csproj", "{9055FBE2-8873-458E-B09B-6E43926DF178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E23FE83-CD7F-4396-99B4-DE84EB6DE96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23FE83-CD7F-4396-99B4-DE84EB6DE96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23FE83-CD7F-4396-99B4-DE84EB6DE96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23FE83-CD7F-4396-99B4-DE84EB6DE96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9055FBE2-8873-458E-B09B-6E43926DF178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9055FBE2-8873-458E-B09B-6E43926DF178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9055FBE2-8873-458E-B09B-6E43926DF178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9055FBE2-8873-458E-B09B-6E43926DF178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17DCE765-311A-4633-AF2D-3CA2C836A8BF}
+	EndGlobalSection
+EndGlobal

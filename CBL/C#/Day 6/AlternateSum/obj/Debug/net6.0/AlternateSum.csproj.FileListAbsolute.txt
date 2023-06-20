@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 6\AlternateSum\bin\Debug\net6.0\AlternateSum.exe
+D:\MVC\CBL\C#\Day 6\AlternateSum\bin\Debug\net6.0\AlternateSum.deps.json
+D:\MVC\CBL\C#\Day 6\AlternateSum\bin\Debug\net6.0\AlternateSum.runtimeconfig.json
+D:\MVC\CBL\C#\Day 6\AlternateSum\bin\Debug\net6.0\AlternateSum.dll
+D:\MVC\CBL\C#\Day 6\AlternateSum\bin\Debug\net6.0\AlternateSum.pdb
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.dll
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\refint\AlternateSum.dll
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.pdb
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\AlternateSum.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 6\AlternateSum\obj\Debug\net6.0\ref\AlternateSum.dll

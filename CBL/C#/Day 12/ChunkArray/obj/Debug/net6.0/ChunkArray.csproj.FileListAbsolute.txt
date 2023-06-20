@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 12\ChunkArray\bin\Debug\net6.0\ChunkArray.exe
+D:\MVC\CBL\C#\Day 12\ChunkArray\bin\Debug\net6.0\ChunkArray.deps.json
+D:\MVC\CBL\C#\Day 12\ChunkArray\bin\Debug\net6.0\ChunkArray.runtimeconfig.json
+D:\MVC\CBL\C#\Day 12\ChunkArray\bin\Debug\net6.0\ChunkArray.dll
+D:\MVC\CBL\C#\Day 12\ChunkArray\bin\Debug\net6.0\ChunkArray.pdb
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.dll
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\refint\ChunkArray.dll
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.pdb
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ChunkArray.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 12\ChunkArray\obj\Debug\net6.0\ref\ChunkArray.dll

@@ -1,0 +1,10 @@
+﻿@using LayoutPageAndAsyncApp.ViewModel
+@model TimeStampVM
+
+<div class="card">
+    <h5 class="card-header">@Model.Title</h5>
+    <div class="card-body">
+        <h5>@DateTime.Now.ToString(Model.Format)</h5>
+    </div>
+</div>
+

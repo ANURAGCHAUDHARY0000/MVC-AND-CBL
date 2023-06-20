@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\bin\Debug\net6.0\RearrangeAndCheckPalindrome.exe
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\bin\Debug\net6.0\RearrangeAndCheckPalindrome.deps.json
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\bin\Debug\net6.0\RearrangeAndCheckPalindrome.runtimeconfig.json
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\bin\Debug\net6.0\RearrangeAndCheckPalindrome.dll
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\bin\Debug\net6.0\RearrangeAndCheckPalindrome.pdb
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.dll
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\refint\RearrangeAndCheckPalindrome.dll
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.pdb
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\RearrangeAndCheckPalindrome.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 32\RearrangeAndCheckPalindrome\obj\Debug\net6.0\ref\RearrangeAndCheckPalindrome.dll

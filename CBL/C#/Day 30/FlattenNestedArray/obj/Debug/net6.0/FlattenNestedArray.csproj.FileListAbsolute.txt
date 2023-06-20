@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\bin\Debug\net6.0\FlattenNestedArray.exe
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\bin\Debug\net6.0\FlattenNestedArray.deps.json
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\bin\Debug\net6.0\FlattenNestedArray.runtimeconfig.json
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\bin\Debug\net6.0\FlattenNestedArray.dll
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\bin\Debug\net6.0\FlattenNestedArray.pdb
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.dll
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\refint\FlattenNestedArray.dll
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.pdb
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\FlattenNestedArray.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 30\FlattenNestedArray\obj\Debug\net6.0\ref\FlattenNestedArray.dll

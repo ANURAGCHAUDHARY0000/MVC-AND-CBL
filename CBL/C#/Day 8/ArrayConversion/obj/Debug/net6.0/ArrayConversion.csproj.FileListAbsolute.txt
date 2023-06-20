@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 8\ArrayConversion\bin\Debug\net6.0\ArrayConversion.exe
+D:\MVC\CBL\C#\Day 8\ArrayConversion\bin\Debug\net6.0\ArrayConversion.deps.json
+D:\MVC\CBL\C#\Day 8\ArrayConversion\bin\Debug\net6.0\ArrayConversion.runtimeconfig.json
+D:\MVC\CBL\C#\Day 8\ArrayConversion\bin\Debug\net6.0\ArrayConversion.dll
+D:\MVC\CBL\C#\Day 8\ArrayConversion\bin\Debug\net6.0\ArrayConversion.pdb
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.dll
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\refint\ArrayConversion.dll
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.pdb
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ArrayConversion.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 8\ArrayConversion\obj\Debug\net6.0\ref\ArrayConversion.dll

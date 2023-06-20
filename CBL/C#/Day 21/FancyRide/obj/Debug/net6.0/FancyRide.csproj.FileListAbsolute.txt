@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 21\FancyRide\bin\Debug\net6.0\FancyRide.exe
+D:\MVC\CBL\C#\Day 21\FancyRide\bin\Debug\net6.0\FancyRide.deps.json
+D:\MVC\CBL\C#\Day 21\FancyRide\bin\Debug\net6.0\FancyRide.runtimeconfig.json
+D:\MVC\CBL\C#\Day 21\FancyRide\bin\Debug\net6.0\FancyRide.dll
+D:\MVC\CBL\C#\Day 21\FancyRide\bin\Debug\net6.0\FancyRide.pdb
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.dll
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\refint\FancyRide.dll
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.pdb
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\FancyRide.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 21\FancyRide\obj\Debug\net6.0\ref\FancyRide.dll

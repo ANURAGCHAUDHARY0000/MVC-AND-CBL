@@ -1,0 +1,16 @@
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\CollegeCoreLib.dll.config
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\CollegeCoreLib.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\CollegeCoreLib.pdb
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\EntityFramework.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\MySql.Data.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\mysql.data.entity.EF6.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\EntityFramework.xml
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.csproj.AssemblyReference.cache
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.csproj.CoreCompileInputs.cache
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.csproj.CopyComplete
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.dll
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.pdb
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.Migrations.v1_initial_migration.resources
+D:\MVC\C#\Session 5\CollegeManagement\CollegeCoreLib\obj\Debug\CollegeCoreLib.csproj.GenerateResource.cache

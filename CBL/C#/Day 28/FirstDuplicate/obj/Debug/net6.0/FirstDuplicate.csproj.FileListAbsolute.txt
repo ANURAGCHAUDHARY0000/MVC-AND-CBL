@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\bin\Debug\net6.0\FirstDuplicate.exe
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\bin\Debug\net6.0\FirstDuplicate.deps.json
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\bin\Debug\net6.0\FirstDuplicate.runtimeconfig.json
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\bin\Debug\net6.0\FirstDuplicate.dll
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\bin\Debug\net6.0\FirstDuplicate.pdb
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.dll
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\refint\FirstDuplicate.dll
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.pdb
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\FirstDuplicate.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 28\FirstDuplicate\obj\Debug\net6.0\ref\FirstDuplicate.dll

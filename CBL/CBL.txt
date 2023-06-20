@@ -1,0 +1,418 @@
+DAY 1-->
+C#-->
+
+namespace String
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] str1 = new string[3] { "abc", "xyz", "pqr" };
+           // string [] str2 = AddBorder(str1);
+            PrintDetails(AddBorder(str1));
+           
+        }
+
+        public static string[] AddBorder(string[] border)
+        {
+            List<string> list = new List<string>();
+            list.Add("*****");
+            foreach (string str in border)
+            {
+                list.Add("*" + str + "*");
+            }
+            list.Add("*****");
+            return list.ToArray();
+        }
+
+        public static void PrintDetails(string[] printborder)
+        {
+            foreach (string str in printborder)
+            {
+                Console.WriteLine(str);
+            }
+        }
+
+
+    }
+
+}
+
+--------------------------------------------------------------------
+JS-->
+
+const strings = [
+        "abc",
+        "xyz",
+        "pqr"
+];
+PrintDetails(AddBorder(strings));
+
+function AddBorder(arr){
+    arr.forEach((element, index) => {
+        arr[index] = `*${element}*`;
+    });
+    arr.unshift("*****");
+    arr.push("*****");   
+    return arr;
+}
+
+function PrintDetails(arr){
+arr.forEach(element => {
+    console.log(element);
+})
+}
+
+
+
+
+--------------------------------------------------------------------------------
+Day 2--> 
+
+C#
+
+namespace LongestString
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            String[] s1 = new string[] { "abc", "ab", "pqr", "lmn", "lm" };
+            printLongeststring(FindLongestString(s1));
+        }
+
+        private static string []  FindLongestString(string[] s1)
+        {
+            List<string> list = new List<string>();
+            int maxlength = 0;
+            for(int i  = 0; i<s1.Length; i++)
+            {
+                if(maxlength < s1[i].Length)
+                  maxlength = s1[i].Length;
+            }
+            foreach(string s2 in s1)
+            {
+                if(maxlength == s2.Length)
+                {
+                    list.Add(s2);
+                }
+            }
+            return list.ToArray();
+            
+        }
+
+        public static void printLongeststring(string[] str)
+        {
+            foreach(string s2 in str)
+            {
+                Console.WriteLine(s2);
+            }
+        }
+    }
+}
+
+
+---------------------------------------------------------------------------
+
+C#-->
+-----
+
+namespace LongestString
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           
+            printSum(Add(10, 20, 30, 40, 50));
+            printSum(Add(10));
+        }
+
+
+        private static int Add(params int[] listofnumbers)
+        {
+            int total = 0;
+            foreach (int number in listofnumbers)
+            {
+                //total = total + number;
+                total += number;
+            }
+            return total;
+        }
+
+
+        private static void printSum(int sum)
+        {
+            Console.WriteLine("Total sum is : "+ sum);
+        }
+
+
+    }
+}
+
+------------------------------------------------------------------------------------
+Js-->
+
+------------------------------------------------------------------------------------
+
+Day 3 -->
+
+ C#-->
+----------
+namespace AlphabeticShift
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter a word: ");
+            string word = Console.ReadLine();
+            // string s1 = "crazy";
+            PrintShiftedString(AlphabeticShift(word));
+        }
+
+        private static string AlphabeticShift(string s1)
+        {
+            string shiftedWord = "";
+            foreach (char ch in s1)
+            {
+                char shiftChar;
+                if(ch == 'z')
+                {
+                    shiftChar = 'a';
+                }
+                else if(ch == 'Z')
+                {
+                    shiftChar = 'A';
+                }
+                else
+                {
+                    shiftChar = (char)((int)ch + 1);
+                }
+                shiftedWord = shiftedWord + shiftChar;
+
+             }
+            return shiftedWord;
+        }
+
+        public static void PrintShiftedString(string s2)
+        {
+            Console.WriteLine(s2);
+        }
+
+
+    }
+}
+
+C# --> 
+------------------
+namespace AlphabeticShiftWithDictionary
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter a Word : ");
+            string word = Console.ReadLine().ToLower();
+            PrintDetails(AlphabeticShift(word));
+        }
+
+        private static string AlphabeticShift(string word)
+        {
+            Dictionary<char, char> charMap = new Dictionary<char, char> {
+            {'a', 'b'}, {'b', 'c'}, {'c', 'd'}, {'d', 'e'},
+            {'e', 'f'}, {'f', 'g'}, {'g', 'h'}, {'h', 'i'},
+            {'i', 'j'}, {'j', 'k'}, {'k', 'l'}, {'l', 'm'},
+            {'m', 'n'}, {'n', 'o'}, {'o', 'p'}, {'p', 'q'},
+            {'q', 'r'}, {'r', 's'}, {'s', 't'}, {'t', 'u'},
+            {'u', 'v'}, {'v', 'w'}, {'w', 'x'}, {'x', 'y'},
+            {'y', 'z'}, {'z', 'a'}
+            };
+
+            string shifted_word = "";
+            foreach (char c in word)
+            {
+                if (charMap.ContainsKey(c))
+                {
+                    shifted_word += charMap[c];
+                }
+            }
+            return shifted_word;
+
+        }
+
+
+        private static void PrintDetails(string word)
+        {
+            Console.WriteLine(word);
+        }
+    }
+}
+-----------------------------------------------------------------------------------------------------------
+JS-->
+
+----------------------------------------------------------------------------------------------------------------
+Day 4 --> 
+
+C#
+-----------
+namespace AlphabeticSequence
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Enter String : ");
+           // string s1 = Console.ReadLine();
+            string s1 = "xab";
+            PrintDetails(AlphabeticSubSequence(s1));
+        }
+
+        public static bool AlphabeticSubSequence(string s)
+        {
+            char ch = s[0];
+            int count = 0;
+            for(int i = 1; i < s.Length; i++)
+            {
+                if(ch < s[i])
+                {
+                    ch = s[i];
+                    count++;
+                }
+            }
+           return count == s.Length - 1;
+
+        }
+
+        public static void PrintDetails(bool v)
+        {
+            Console.WriteLine(v);
+        }
+    }
+}
+
+----------------------------------------
+C#
+------
+namespace AlphabeticSubSequenceWithHashSet
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter string : ");
+            //string s1 = Console.ReadLine();
+            string s1 = "xab";
+            Print(AlphabeticSubSequenceWithHashSet(s1));
+        }
+
+        private static bool AlphabeticSubSequenceWithHashSet(string s2)
+        {
+            HashSet<char> myhash1 = new HashSet<char>();
+            char ch = s2[0];
+            for(int i = 1; i < s2.Length; i++)
+            {
+                if (ch < s2[i])
+                {
+                    ch = s2[i];
+                    myhash1.Add(s2[i]);
+                }
+            }
+            return myhash1.Count == s2.Length - 1;
+
+        }
+
+        public static void Print(bool result)
+        {
+            Console.WriteLine(result);
+        }
+    }
+}
+
+------------------------------------------------------------------------------------------------
+
+Day 5 :-
+
+PrintTwoAdjacentElementProducts
+
+C# -->
+----------
+namespace AdjacentTwoElementsProduct
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           PrintProduct (AdjacentTwoElementsProduct(3,6,2,5,7,9));
+           PrintProduct(AdjacentTwoElementsProduct(3, 6, -2, -5, 7, 3));
+          
+
+        }
+
+     
+        private static int AdjacentTwoElementsProduct(params int[] listofnumbers)
+        {
+            int number = int.MinValue;
+            //int number = 0;
+            for(int i = 0; i < listofnumbers.Length -1 ; i++)
+            {
+                //if(number < listofnumbers[i] * listofnumbers[i+1])
+                //{
+                //    number = listofnumbers[i] * listofnumbers[i+1];
+                //}
+
+                if(listofnumbers[i] * listofnumbers[i+1] > number)
+                {
+                    number = listofnumbers[i]* listofnumbers[i+1];
+                }
+            }
+            return number;
+        }
+
+
+        private static void PrintProduct(int number)
+        {
+            Console.WriteLine(number);
+        }
+
+    }
+}
+
+-------------------------------------------------------------------------------------------------------
+C# -->
+----------
+
+namespace AdjacentThreeElementProduct
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            PrintProducts( AdjacentThreeElementProduct(3, 6, 2, 5, 7, 3));
+            PrintProducts(AdjacentThreeElementProduct(3, 6, -2, -5, 7, 3));
+        }
+
+        private static int AdjacentThreeElementProduct(params int[] listofnumbers)
+        {
+            int number = int.MinValue;
+            for(int i = 0; i < listofnumbers.Length-2; i++)
+            {
+                if(listofnumbers[i] * listofnumbers[i+1] * listofnumbers[i+2] >  number)
+                {
+                  number = listofnumbers[i] * listofnumbers[i + 1] * listofnumbers[i + 2];
+                }
+            }
+            return number;
+        }
+
+        private static void PrintProducts(int number)
+        {
+            Console.WriteLine(number);
+        }
+
+    }
+
+}
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\bin\Debug\net6.0\AlphabeticShift.exe
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\bin\Debug\net6.0\AlphabeticShift.deps.json
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\bin\Debug\net6.0\AlphabeticShift.runtimeconfig.json
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\bin\Debug\net6.0\AlphabeticShift.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\bin\Debug\net6.0\AlphabeticShift.pdb
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\refint\AlphabeticShift.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.pdb
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\AlphabeticShift.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShift\obj\Debug\net6.0\ref\AlphabeticShift.dll

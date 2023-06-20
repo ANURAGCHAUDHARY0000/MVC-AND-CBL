@@ -1,0 +1,16 @@
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\ConsoleAppCollege.exe.config
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\ConsoleAppCollege.exe
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\ConsoleAppCollege.pdb
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\CollegeCoreLib.dll
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\EntityFramework.dll
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\CollegeCoreLib.pdb
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\CollegeCoreLib.dll.config
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\EntityFramework.xml
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.csproj.AssemblyReference.cache
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.csproj.SuggestedBindingRedirects.cache
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.csproj.CoreCompileInputs.cache
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.csproj.CopyComplete
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.exe
+D:\MVC\C#\Session 5\CollegeManagement\ConsoleAppCollege\obj\Debug\ConsoleAppCollege.pdb

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\bin\Debug\net6.0\GetChessCellColor.exe
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\bin\Debug\net6.0\GetChessCellColor.deps.json
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\bin\Debug\net6.0\GetChessCellColor.runtimeconfig.json
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\bin\Debug\net6.0\GetChessCellColor.dll
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\bin\Debug\net6.0\GetChessCellColor.pdb
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.dll
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\refint\GetChessCellColor.dll
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.pdb
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\GetChessCellColor.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 9\GetChessCellColor\obj\Debug\net6.0\ref\GetChessCellColor.dll

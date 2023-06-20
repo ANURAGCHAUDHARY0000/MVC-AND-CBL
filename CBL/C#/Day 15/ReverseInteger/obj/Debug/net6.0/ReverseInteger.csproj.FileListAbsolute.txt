@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 15\ReverseInteger\bin\Debug\net6.0\ReverseInteger.exe
+D:\MVC\CBL\C#\Day 15\ReverseInteger\bin\Debug\net6.0\ReverseInteger.deps.json
+D:\MVC\CBL\C#\Day 15\ReverseInteger\bin\Debug\net6.0\ReverseInteger.runtimeconfig.json
+D:\MVC\CBL\C#\Day 15\ReverseInteger\bin\Debug\net6.0\ReverseInteger.dll
+D:\MVC\CBL\C#\Day 15\ReverseInteger\bin\Debug\net6.0\ReverseInteger.pdb
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.dll
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\refint\ReverseInteger.dll
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.pdb
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ReverseInteger.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 15\ReverseInteger\obj\Debug\net6.0\ref\ReverseInteger.dll

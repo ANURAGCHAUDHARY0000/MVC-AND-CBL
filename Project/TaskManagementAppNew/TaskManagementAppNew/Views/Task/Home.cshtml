@@ -1,0 +1,55 @@
+﻿@using TaskManagementAppNew.Models.ViewModels
+@model TaskVM
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+
+<h2>Home</h2>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Home</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("Add Task", "AddTask", "", new { @class = "btn btn-primary" }) 
+       
+        <table class="table table-bordered table-responsive table-hover">
+           
+            <tr>
+                <th>Id </th>
+                <th>Title </th>
+                <th>Description</th>
+                <th>Priority</th>
+                <th>CreatedOn</th>
+                <th>CompletedOn</th>
+                <th>Action</th>
+            </tr>
+            @foreach (var d in Model.Tasks)
+            {
+                <tr>
+                    <td>@d.Id</td>
+                    @*<td>@d.Title</td>*@
+                    <td>@Html.ActionLink(@d.Title, "Home", "SubTask", new { id = d.Id }, null)</td>
+                    @*<td>@Html.ActionLink(@d.Title, "Home", "SubTask", "", new { id = d.Id }) </td>*@
+                    <td>@d.Discription</td>
+                    <td>@d.Priority</td>
+                    <td>@d.CreatedOn</td>
+                    <td>@d.CompletedOn</td>
+                    <td>
+                        @Html.ActionLink("Edit", "EditTask", new { id = d.Id }) |&nbsp;
+                        @Html.ActionLink("Delete", "DeleteTask(", new { id = d.Id }, new { onclick = "return confirm('Are you sure to delete this Task?')" })
+                    </td>
+                </tr>
+
+            }
+        </table>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\bin\Debug\net6.0\CheckEvenDigits.exe
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\bin\Debug\net6.0\CheckEvenDigits.deps.json
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\bin\Debug\net6.0\CheckEvenDigits.runtimeconfig.json
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\bin\Debug\net6.0\CheckEvenDigits.dll
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\bin\Debug\net6.0\CheckEvenDigits.pdb
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.dll
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\refint\CheckEvenDigits.dll
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.pdb
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\CheckEvenDigits.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 25\CheckEvenDigits\obj\Debug\net6.0\ref\CheckEvenDigits.dll

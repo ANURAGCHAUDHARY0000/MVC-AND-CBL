@@ -1,0 +1,56 @@
+﻿@using TaskManagementAppNew.Models.ViewModels
+@model UserVM
+@{
+    Layout = "~/Views/Shared/_masterLayout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Home</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("Add User", "AddUser", "", new { @class = "btn btn-primary" })
+        <h1>Total Users in System: @Model.Count</h1>
+        <table class="table table-bordered table-responsive table-hover">
+            <tr>
+                <th>User Id </th>
+                <th>User Name </th>
+                <th>EmailId</th>
+                <th>IsAdmin</th>
+                <th>IsActive</th>
+                <th>Action</th>
+            </tr>
+            @foreach (var d in Model.Users)
+            {
+                string linkText = (d.IsActive) ? "Disable" : "Enable";
+                string actionName = (d.IsActive) ? "DisableUser" : "EnableUser";
+                <tr>
+                    <td>@d.Id</td>
+                    <td>@d.Name</td>
+                    <td>@d.Email</td>
+                    <td>@d.IsAdmin</td>
+                    <td>@d.IsActive</td>
+                    <td>
+                        @Html.ActionLink("Edit", "EditUser", new { id = d.Id }) |&nbsp;
+                        @*@Html.ActionLink("Disable", "DisableUser", new { id = d.Id }, new { onclick = "return confirm('Are you sure to disable this User?')" }) |&nbsp;*@
+                        @Html.ActionLink("ViewTask", "Home", "Task", new { id = d.Id }, null)  |&nbsp;
+                        @Html.ActionLink(linkText, actionName, new { id = d.Id }, new { onclick = "return confirm('Are you sure?')" })
+
+                    </td>
+                </tr>
+
+            }
+        </table>
+    </div>
+       
+
+</body>
+</html>
+
+

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 20\CheckDomain\bin\Debug\net6.0\CheckDomain.exe
+D:\MVC\CBL\C#\Day 20\CheckDomain\bin\Debug\net6.0\CheckDomain.deps.json
+D:\MVC\CBL\C#\Day 20\CheckDomain\bin\Debug\net6.0\CheckDomain.runtimeconfig.json
+D:\MVC\CBL\C#\Day 20\CheckDomain\bin\Debug\net6.0\CheckDomain.dll
+D:\MVC\CBL\C#\Day 20\CheckDomain\bin\Debug\net6.0\CheckDomain.pdb
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.dll
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\refint\CheckDomain.dll
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.pdb
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\CheckDomain.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 20\CheckDomain\obj\Debug\net6.0\ref\CheckDomain.dll

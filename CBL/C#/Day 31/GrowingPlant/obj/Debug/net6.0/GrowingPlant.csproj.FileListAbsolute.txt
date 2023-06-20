@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 31\GrowingPlant\bin\Debug\net6.0\GrowingPlant.exe
+D:\MVC\CBL\C#\Day 31\GrowingPlant\bin\Debug\net6.0\GrowingPlant.deps.json
+D:\MVC\CBL\C#\Day 31\GrowingPlant\bin\Debug\net6.0\GrowingPlant.runtimeconfig.json
+D:\MVC\CBL\C#\Day 31\GrowingPlant\bin\Debug\net6.0\GrowingPlant.dll
+D:\MVC\CBL\C#\Day 31\GrowingPlant\bin\Debug\net6.0\GrowingPlant.pdb
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.dll
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\refint\GrowingPlant.dll
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.pdb
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\GrowingPlant.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 31\GrowingPlant\obj\Debug\net6.0\ref\GrowingPlant.dll

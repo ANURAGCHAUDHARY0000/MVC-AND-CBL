@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.exe
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.deps.json
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.runtimeconfig.json
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.dll
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.pdb
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.dll
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\refint\CheckPalindrome.dll
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.pdb
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 11\CheckPalindrome\obj\Debug\net6.0\ref\CheckPalindrome.dll

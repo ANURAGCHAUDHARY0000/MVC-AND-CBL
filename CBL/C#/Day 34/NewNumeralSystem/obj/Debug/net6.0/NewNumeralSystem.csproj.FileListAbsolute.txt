@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\bin\Debug\net6.0\NewNumeralSystem.exe
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\bin\Debug\net6.0\NewNumeralSystem.deps.json
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\bin\Debug\net6.0\NewNumeralSystem.runtimeconfig.json
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\bin\Debug\net6.0\NewNumeralSystem.dll
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\bin\Debug\net6.0\NewNumeralSystem.pdb
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.dll
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\refint\NewNumeralSystem.dll
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.pdb
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\NewNumeralSystem.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 34\NewNumeralSystem\obj\Debug\net6.0\ref\NewNumeralSystem.dll

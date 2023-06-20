@@ -1,0 +1,37 @@
+﻿@using FromValidationApp.Models.BuisnessModel
+@model List<Student>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Welcome Back User : @Session["UserId"]</h1>
+        @Html.ActionLink("Add Student", "Add", "", new { @class = "btn btn-primary" })
+    </div>
+    <div>
+        <table class="table table-striped">
+            <tr>
+                <th>Id </th>
+                <th>Name </th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.Id</td>
+                    <td>@d.Name</td>
+                </tr>
+
+            }
+        </table>
+
+
+    </div>
+    </body>
+</html>

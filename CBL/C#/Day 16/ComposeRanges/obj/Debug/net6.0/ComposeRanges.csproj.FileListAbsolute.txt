@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 16\ComposeRanges\bin\Debug\net6.0\ComposeRanges.exe
+D:\MVC\CBL\C#\Day 16\ComposeRanges\bin\Debug\net6.0\ComposeRanges.deps.json
+D:\MVC\CBL\C#\Day 16\ComposeRanges\bin\Debug\net6.0\ComposeRanges.runtimeconfig.json
+D:\MVC\CBL\C#\Day 16\ComposeRanges\bin\Debug\net6.0\ComposeRanges.dll
+D:\MVC\CBL\C#\Day 16\ComposeRanges\bin\Debug\net6.0\ComposeRanges.pdb
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.dll
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\refint\ComposeRanges.dll
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.pdb
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ComposeRanges.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 16\ComposeRanges\obj\Debug\net6.0\ref\ComposeRanges.dll

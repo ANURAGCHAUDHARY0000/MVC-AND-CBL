@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\bin\Debug\net6.0\FindFirstDigit.exe
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\bin\Debug\net6.0\FindFirstDigit.deps.json
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\bin\Debug\net6.0\FindFirstDigit.runtimeconfig.json
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\bin\Debug\net6.0\FindFirstDigit.dll
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\bin\Debug\net6.0\FindFirstDigit.pdb
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.dll
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\refint\FindFirstDigit.dll
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.pdb
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\FindFirstDigit.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 26\FindFirstDigit\obj\Debug\net6.0\ref\FindFirstDigit.dll

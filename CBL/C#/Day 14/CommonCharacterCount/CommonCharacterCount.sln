@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharacterCount", "CommonCharacterCount.csproj", "{A8142139-7E24-4711-A98A-C8497FE765A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharCountDictionary", "..\CommonCharacterCountDictionary\CommonCharCountDictionary\CommonCharCountDictionary.csproj", "{FAC43975-E35F-4395-93A5-AAF3484CA486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8142139-7E24-4711-A98A-C8497FE765A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8142139-7E24-4711-A98A-C8497FE765A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8142139-7E24-4711-A98A-C8497FE765A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8142139-7E24-4711-A98A-C8497FE765A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC43975-E35F-4395-93A5-AAF3484CA486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC43975-E35F-4395-93A5-AAF3484CA486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC43975-E35F-4395-93A5-AAF3484CA486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC43975-E35F-4395-93A5-AAF3484CA486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190F19F9-BE3A-4429-BFB0-532891CCAFAD}
+	EndGlobalSection
+EndGlobal

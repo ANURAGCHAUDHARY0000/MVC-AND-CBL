@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 7\SwapArray\bin\Debug\net6.0\SwapArray.exe
+D:\MVC\CBL\C#\Day 7\SwapArray\bin\Debug\net6.0\SwapArray.deps.json
+D:\MVC\CBL\C#\Day 7\SwapArray\bin\Debug\net6.0\SwapArray.runtimeconfig.json
+D:\MVC\CBL\C#\Day 7\SwapArray\bin\Debug\net6.0\SwapArray.dll
+D:\MVC\CBL\C#\Day 7\SwapArray\bin\Debug\net6.0\SwapArray.pdb
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.dll
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\refint\SwapArray.dll
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.pdb
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\SwapArray.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 7\SwapArray\obj\Debug\net6.0\ref\SwapArray.dll

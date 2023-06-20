@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\bin\Debug\net6.0\AlphabeticShiftWithDictionary.exe
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\bin\Debug\net6.0\AlphabeticShiftWithDictionary.deps.json
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\bin\Debug\net6.0\AlphabeticShiftWithDictionary.runtimeconfig.json
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\bin\Debug\net6.0\AlphabeticShiftWithDictionary.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\bin\Debug\net6.0\AlphabeticShiftWithDictionary.pdb
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\refint\AlphabeticShiftWithDictionary.dll
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.pdb
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\AlphabeticShiftWithDictionary.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 3\AlphabeticShiftWithDictionary\obj\Debug\net6.0\ref\AlphabeticShiftWithDictionary.dll

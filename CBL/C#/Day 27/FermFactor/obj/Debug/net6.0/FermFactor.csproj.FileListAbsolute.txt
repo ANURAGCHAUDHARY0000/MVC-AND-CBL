@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 27\FermFactor\bin\Debug\net6.0\FermFactor.exe
+D:\MVC\CBL\C#\Day 27\FermFactor\bin\Debug\net6.0\FermFactor.deps.json
+D:\MVC\CBL\C#\Day 27\FermFactor\bin\Debug\net6.0\FermFactor.runtimeconfig.json
+D:\MVC\CBL\C#\Day 27\FermFactor\bin\Debug\net6.0\FermFactor.dll
+D:\MVC\CBL\C#\Day 27\FermFactor\bin\Debug\net6.0\FermFactor.pdb
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.dll
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\refint\FermFactor.dll
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.pdb
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\FermFactor.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 27\FermFactor\obj\Debug\net6.0\ref\FermFactor.dll

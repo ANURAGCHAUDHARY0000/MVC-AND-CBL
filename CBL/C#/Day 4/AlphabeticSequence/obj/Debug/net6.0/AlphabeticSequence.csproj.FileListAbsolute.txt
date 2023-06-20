@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\bin\Debug\net6.0\AlphabeticSequence.exe
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\bin\Debug\net6.0\AlphabeticSequence.deps.json
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\bin\Debug\net6.0\AlphabeticSequence.runtimeconfig.json
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\bin\Debug\net6.0\AlphabeticSequence.dll
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\bin\Debug\net6.0\AlphabeticSequence.pdb
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.dll
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\refint\AlphabeticSequence.dll
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.pdb
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\AlphabeticSequence.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 4\AlphabeticSequence\obj\Debug\net6.0\ref\AlphabeticSequence.dll

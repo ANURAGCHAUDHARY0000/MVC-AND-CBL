@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 36\RatingThreshold\bin\Debug\net6.0\RatingThreshold.exe
+D:\MVC\CBL\C#\Day 36\RatingThreshold\bin\Debug\net6.0\RatingThreshold.deps.json
+D:\MVC\CBL\C#\Day 36\RatingThreshold\bin\Debug\net6.0\RatingThreshold.runtimeconfig.json
+D:\MVC\CBL\C#\Day 36\RatingThreshold\bin\Debug\net6.0\RatingThreshold.dll
+D:\MVC\CBL\C#\Day 36\RatingThreshold\bin\Debug\net6.0\RatingThreshold.pdb
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.dll
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\refint\RatingThreshold.dll
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.pdb
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\RatingThreshold.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 36\RatingThreshold\obj\Debug\net6.0\ref\RatingThreshold.dll

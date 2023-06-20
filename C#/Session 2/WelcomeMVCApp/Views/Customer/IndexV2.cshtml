@@ -1,0 +1,26 @@
+﻿@using WelcomeMVCApp.Models.DTO
+@model List<CustomerDTO> 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IndexV2</title>
+</head>
+<body>
+    <div>
+        <h1>@Model.Count</h1>
+        @foreach (CustomerDTO c in Model)
+        {
+            <li>
+            @c.FullName @c.Age
+                </li>
+        }
+
+    </div>
+</body>
+</html>

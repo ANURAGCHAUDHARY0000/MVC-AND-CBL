@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MasterLayoutPage.cshtml";
+}
+
+@using LayoutPageAndAsyncApp.ViewModel
+<h2>Index page of home controller</h2>
+
+
+@Html.Partial("_timestamp",new TimeStampVM())
+

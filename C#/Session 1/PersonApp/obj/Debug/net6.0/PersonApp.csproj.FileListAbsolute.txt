@@ -1,0 +1,15 @@
+D:\MVC\Session 1\PersonApp\bin\Debug\net6.0\PersonApp.exe
+D:\MVC\Session 1\PersonApp\bin\Debug\net6.0\PersonApp.deps.json
+D:\MVC\Session 1\PersonApp\bin\Debug\net6.0\PersonApp.runtimeconfig.json
+D:\MVC\Session 1\PersonApp\bin\Debug\net6.0\PersonApp.dll
+D:\MVC\Session 1\PersonApp\bin\Debug\net6.0\PersonApp.pdb
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.csproj.AssemblyReference.cache
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.AssemblyInfoInputs.cache
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.AssemblyInfo.cs
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.csproj.CoreCompileInputs.cache
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.dll
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\refint\PersonApp.dll
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.pdb
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\PersonApp.genruntimeconfig.cache
+D:\MVC\Session 1\PersonApp\obj\Debug\net6.0\ref\PersonApp.dll

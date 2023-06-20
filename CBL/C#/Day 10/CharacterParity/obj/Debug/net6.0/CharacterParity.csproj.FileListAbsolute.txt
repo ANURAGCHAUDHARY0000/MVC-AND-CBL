@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 10\CharacterParity\bin\Debug\net6.0\CharacterParity.exe
+D:\MVC\CBL\C#\Day 10\CharacterParity\bin\Debug\net6.0\CharacterParity.deps.json
+D:\MVC\CBL\C#\Day 10\CharacterParity\bin\Debug\net6.0\CharacterParity.runtimeconfig.json
+D:\MVC\CBL\C#\Day 10\CharacterParity\bin\Debug\net6.0\CharacterParity.dll
+D:\MVC\CBL\C#\Day 10\CharacterParity\bin\Debug\net6.0\CharacterParity.pdb
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.dll
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\refint\CharacterParity.dll
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.pdb
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\CharacterParity.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 10\CharacterParity\obj\Debug\net6.0\ref\CharacterParity.dll

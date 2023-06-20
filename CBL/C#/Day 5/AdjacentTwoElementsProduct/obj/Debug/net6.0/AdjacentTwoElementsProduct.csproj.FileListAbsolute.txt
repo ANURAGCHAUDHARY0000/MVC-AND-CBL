@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\bin\Debug\net6.0\AdjacentTwoElementsProduct.exe
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\bin\Debug\net6.0\AdjacentTwoElementsProduct.deps.json
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\bin\Debug\net6.0\AdjacentTwoElementsProduct.runtimeconfig.json
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\bin\Debug\net6.0\AdjacentTwoElementsProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\bin\Debug\net6.0\AdjacentTwoElementsProduct.pdb
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\refint\AdjacentTwoElementsProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.pdb
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\AdjacentTwoElementsProduct.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 5\AdjacentTwoElementsProduct\obj\Debug\net6.0\ref\AdjacentTwoElementsProduct.dll

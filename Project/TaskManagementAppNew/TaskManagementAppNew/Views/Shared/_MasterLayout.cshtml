@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>_MasterLayout</title>
+</head>
+<body>
+    <nav style="background-color:aqua">
+        <div>
+            <h2 style="text-align:center">
+                @if (Session["LoggedInUser"] != null)
+                {
+                    <span style="border:ridge"> Welcome:@Session["LoggedInUser"]</span>
+                    @Html.ActionLink("Logout", "Logout", "LoginTo", "", new {@class = "btn btn-danger"});
+                }
+            </h2>
+        </div>
+
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

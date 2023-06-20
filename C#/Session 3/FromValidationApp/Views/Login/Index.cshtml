@@ -1,0 +1,44 @@
+﻿@using FromValidationApp.Models.ViewModels
+@model LoginVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index </title>
+   <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+   <script src="~/Scripts/jquery-1.8.0.js"></script>
+   <script src="~/Scripts/jquery.validate.js"></script>
+   <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+  </head>
+<body class="container">
+
+    @using (Html.BeginForm())
+    {
+        <p>
+            <span>Enter User Id</span>
+            @Html.TextBoxFor(m => m.UserId)
+            <span>@Html.ValidationMessageFor(m => m.UserId, "" ,new{@class = "alert alert-danger"})</span>
+        </p>
+
+
+        <p>
+            <span>Enter User Password</span>
+            @Html.TextBoxFor(m => m.Password)
+            <span>@Html.ValidationMessageFor(m => m.Password, "", new{@class = "alert alert-danger"})</span>
+        </p>
+
+        <p>
+            @Html.ValidationSummary()
+        </p>
+
+        <input class="btn btn-primary" type="submit" value="Login" />
+    }
+
+</body>
+</html>

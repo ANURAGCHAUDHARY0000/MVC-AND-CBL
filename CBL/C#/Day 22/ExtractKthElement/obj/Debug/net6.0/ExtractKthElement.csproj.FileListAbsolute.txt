@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\bin\Debug\net6.0\ExtractKthElement.exe
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\bin\Debug\net6.0\ExtractKthElement.deps.json
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\bin\Debug\net6.0\ExtractKthElement.runtimeconfig.json
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\bin\Debug\net6.0\ExtractKthElement.dll
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\bin\Debug\net6.0\ExtractKthElement.pdb
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.dll
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\refint\ExtractKthElement.dll
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.pdb
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ExtractKthElement.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 22\ExtractKthElement\obj\Debug\net6.0\ref\ExtractKthElement.dll

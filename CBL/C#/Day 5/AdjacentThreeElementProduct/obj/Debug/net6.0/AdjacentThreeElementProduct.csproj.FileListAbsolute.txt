@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\bin\Debug\net6.0\AdjacentThreeElementProduct.exe
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\bin\Debug\net6.0\AdjacentThreeElementProduct.deps.json
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\bin\Debug\net6.0\AdjacentThreeElementProduct.runtimeconfig.json
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\bin\Debug\net6.0\AdjacentThreeElementProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\bin\Debug\net6.0\AdjacentThreeElementProduct.pdb
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\refint\AdjacentThreeElementProduct.dll
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.pdb
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\AdjacentThreeElementProduct.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 5\AdjacentThreeElementProduct\obj\Debug\net6.0\ref\AdjacentThreeElementProduct.dll

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\bin\Debug\net6.0\PageNumberingWithINK2.exe
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\bin\Debug\net6.0\PageNumberingWithINK2.deps.json
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\bin\Debug\net6.0\PageNumberingWithINK2.runtimeconfig.json
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\bin\Debug\net6.0\PageNumberingWithINK2.dll
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\bin\Debug\net6.0\PageNumberingWithINK2.pdb
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.dll
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\refint\PageNumberingWithINK2.dll
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.pdb
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\PageNumberingWithINK2.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 35\PageNumberingWithINK2\obj\Debug\net6.0\ref\PageNumberingWithINK2.dll

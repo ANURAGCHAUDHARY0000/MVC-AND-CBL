@@ -1,0 +1,17 @@
+D:\MVC\C#\Session 4\SyncAwaitApp\bin\Debug\net6.0-windows\SyncAwaitApp.exe
+D:\MVC\C#\Session 4\SyncAwaitApp\bin\Debug\net6.0-windows\SyncAwaitApp.deps.json
+D:\MVC\C#\Session 4\SyncAwaitApp\bin\Debug\net6.0-windows\SyncAwaitApp.runtimeconfig.json
+D:\MVC\C#\Session 4\SyncAwaitApp\bin\Debug\net6.0-windows\SyncAwaitApp.dll
+D:\MVC\C#\Session 4\SyncAwaitApp\bin\Debug\net6.0-windows\SyncAwaitApp.pdb
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.csproj.AssemblyReference.cache
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.Form1.resources
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.csproj.GenerateResource.cache
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.AssemblyInfoInputs.cache
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.AssemblyInfo.cs
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.csproj.CoreCompileInputs.cache
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.dll
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\refint\SyncAwaitApp.dll
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.pdb
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\SyncAwaitApp.genruntimeconfig.cache
+D:\MVC\C#\Session 4\SyncAwaitApp\obj\Debug\net6.0-windows\ref\SyncAwaitApp.dll

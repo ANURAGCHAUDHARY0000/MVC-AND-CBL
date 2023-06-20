@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\bin\Debug\net6.0\AlternateSumOptimised.exe
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\bin\Debug\net6.0\AlternateSumOptimised.deps.json
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\bin\Debug\net6.0\AlternateSumOptimised.runtimeconfig.json
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\bin\Debug\net6.0\AlternateSumOptimised.dll
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\bin\Debug\net6.0\AlternateSumOptimised.pdb
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.dll
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\refint\AlternateSumOptimised.dll
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.pdb
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\AlternateSumOptimised.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 6\AlternateSumOptimised\obj\Debug\net6.0\ref\AlternateSumOptimised.dll

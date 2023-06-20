@@ -1,0 +1,15 @@
+D:\MVC\CBL\Day 1\String\bin\Debug\net6.0\StringArray.exe
+D:\MVC\CBL\Day 1\String\bin\Debug\net6.0\StringArray.deps.json
+D:\MVC\CBL\Day 1\String\bin\Debug\net6.0\StringArray.runtimeconfig.json
+D:\MVC\CBL\Day 1\String\bin\Debug\net6.0\StringArray.dll
+D:\MVC\CBL\Day 1\String\bin\Debug\net6.0\StringArray.pdb
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.csproj.AssemblyReference.cache
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.AssemblyInfoInputs.cache
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.AssemblyInfo.cs
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.dll
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\refint\StringArray.dll
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.pdb
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\StringArray.genruntimeconfig.cache
+D:\MVC\CBL\Day 1\String\obj\Debug\net6.0\ref\StringArray.dll

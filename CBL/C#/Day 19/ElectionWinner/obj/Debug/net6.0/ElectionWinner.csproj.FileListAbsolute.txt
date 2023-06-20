@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 19\ElectionWinner\bin\Debug\net6.0\ElectionWinner.exe
+D:\MVC\CBL\C#\Day 19\ElectionWinner\bin\Debug\net6.0\ElectionWinner.deps.json
+D:\MVC\CBL\C#\Day 19\ElectionWinner\bin\Debug\net6.0\ElectionWinner.runtimeconfig.json
+D:\MVC\CBL\C#\Day 19\ElectionWinner\bin\Debug\net6.0\ElectionWinner.dll
+D:\MVC\CBL\C#\Day 19\ElectionWinner\bin\Debug\net6.0\ElectionWinner.pdb
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.dll
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\refint\ElectionWinner.dll
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.pdb
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ElectionWinner.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 19\ElectionWinner\obj\Debug\net6.0\ref\ElectionWinner.dll

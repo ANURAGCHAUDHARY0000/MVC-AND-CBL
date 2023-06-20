@@ -1,0 +1,23 @@
+﻿@using WelcomeMVCApp.Models.DTO
+@model WelcomeMVCApp.Models.VM.CustomerIndexViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Found this many Customer : @Model.Count</h1>
+    @foreach(CustomerDTO c in Model.Customers)
+            {
+                <li>
+                    @c.FullName, @c.Age, @c.Address
+                </li>
+            }
+</body>
+</html>

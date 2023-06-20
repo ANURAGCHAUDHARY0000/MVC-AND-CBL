@@ -1,0 +1,25 @@
+﻿@using EmployeeOrganisationMVC.Models.DTO
+@model EmployeeOrganisationMVC.Models.IndexViewModel.IndexViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @foreach (EmployeeDTO e in Model.Employees)
+    {
+        <li>
+            @e.EmployeeId , @e.EmployeeName, @e.EmployeeDesignation, @e.EmployeeAddress, @e.City, @e.PinCode
+
+        </li>
+    }
+
+   
+</body>
+</html>

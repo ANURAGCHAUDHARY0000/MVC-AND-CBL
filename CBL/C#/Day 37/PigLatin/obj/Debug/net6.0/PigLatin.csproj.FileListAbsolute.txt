@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 37\PigLatin\bin\Debug\net6.0\PigLatin.exe
+D:\MVC\CBL\C#\Day 37\PigLatin\bin\Debug\net6.0\PigLatin.deps.json
+D:\MVC\CBL\C#\Day 37\PigLatin\bin\Debug\net6.0\PigLatin.runtimeconfig.json
+D:\MVC\CBL\C#\Day 37\PigLatin\bin\Debug\net6.0\PigLatin.dll
+D:\MVC\CBL\C#\Day 37\PigLatin\bin\Debug\net6.0\PigLatin.pdb
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.dll
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\refint\PigLatin.dll
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.pdb
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\PigLatin.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 37\PigLatin\obj\Debug\net6.0\ref\PigLatin.dll

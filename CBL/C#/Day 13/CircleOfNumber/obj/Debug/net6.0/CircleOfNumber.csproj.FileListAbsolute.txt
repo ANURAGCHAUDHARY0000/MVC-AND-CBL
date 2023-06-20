@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\bin\Debug\net6.0\CircleOfNumber.exe
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\bin\Debug\net6.0\CircleOfNumber.deps.json
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\bin\Debug\net6.0\CircleOfNumber.runtimeconfig.json
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\bin\Debug\net6.0\CircleOfNumber.dll
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\bin\Debug\net6.0\CircleOfNumber.pdb
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.dll
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\refint\CircleOfNumber.dll
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.pdb
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\CircleOfNumber.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 13\CircleOfNumber\obj\Debug\net6.0\ref\CircleOfNumber.dll

@@ -1,0 +1,15 @@
+D:\MVC\CBL\C#\Day 33\MissingCharacters\bin\Debug\net6.0\MissingCharacters.exe
+D:\MVC\CBL\C#\Day 33\MissingCharacters\bin\Debug\net6.0\MissingCharacters.deps.json
+D:\MVC\CBL\C#\Day 33\MissingCharacters\bin\Debug\net6.0\MissingCharacters.runtimeconfig.json
+D:\MVC\CBL\C#\Day 33\MissingCharacters\bin\Debug\net6.0\MissingCharacters.dll
+D:\MVC\CBL\C#\Day 33\MissingCharacters\bin\Debug\net6.0\MissingCharacters.pdb
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.csproj.AssemblyReference.cache
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.AssemblyInfoInputs.cache
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.AssemblyInfo.cs
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.csproj.CoreCompileInputs.cache
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.dll
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\refint\MissingCharacters.dll
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.pdb
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\MissingCharacters.genruntimeconfig.cache
+D:\MVC\CBL\C#\Day 33\MissingCharacters\obj\Debug\net6.0\ref\MissingCharacters.dll
